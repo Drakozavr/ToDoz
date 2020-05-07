@@ -1,0 +1,44 @@
+/* grey v.1 */
+:root {
+  --clr-primary: rgb(75, 75, 75);
+  --clr-light: #f4f4f4;
+  --clr-dark: #333;
+  --clr-warning: rgb(99, 36, 36);
+  --clr-header: #d3d3d3;
+  --clr-title: rgba(0, 0, 0, 0.1);
+}
+
+/* dark-orng v.2 */
+:root {
+  --clr-primary: rgb(46, 35, 31);
+  --clr-light: #eed9ab;
+  --clr-dark: #333;
+  --clr-warning: rgb(250, 132, 35);
+  --clr-header: #e66e37;
+  --clr-title: rgba(0, 0, 0, 0.2);
+}
+
+/* make a note for .todo-header that border-bottom works not for all color scheme */
+.todo-header {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.4);
+}
+
+/* blue-pink v.3 */
+:root {
+  --clr-primary: #232946;
+  --clr-light: #fadff1;
+  --clr-dark: #333;
+  --clr-warning: rgb(105, 131, 247);
+  --clr-header: #b8c1ec;
+  --clr-title: rgba(0, 0, 0, 0.1);
+}
+
+/* sea-yellow v.4 */
+:root {
+  --clr-primary: #004643;
+  --clr-light: #fff4c4;
+  --clr-dark: #333;
+  --clr-warning: rgb(255, 103, 65);
+  --clr-header: #c7ebe0;
+  --clr-title: rgba(0, 0, 0, 0.1);
+}
